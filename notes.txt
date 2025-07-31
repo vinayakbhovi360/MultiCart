@@ -1,0 +1,1 @@
+DB_URL = mongodb+srv://vinayakbhovi360:Xp6a8HQter43UZN3@cluster0.9zt6h.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
