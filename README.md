@@ -5,10 +5,6 @@
   <p>MultiCart provides a seamless and feature-rich experience for customers, vendors, and administrators.</p>
 
   <p>
-    <img src="https://img.shields.io/badge/license-ISC-blue.svg" alt="License Badge">
-    <img src="https://img.shields.io/github/stars/yourusername/multicart?style=social" alt="GitHub Stars">
-    <img src="https://img.shields.io/github/forks/yourusername/multicart?style=social" alt="GitHub Forks">
-    <br />
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
@@ -18,7 +14,7 @@
 
 ## 🚀 Live Demo
 
-[Check out the live application!](https://multicart-frontend.onrender.com/) &nbsp;&nbsp;*(<- Add your deployment link here)*
+[Check out the live application!](https://multicart-frontend.onrender.com/) &nbsp;&nbsp;
 
 ## ✨ Core Features
 
