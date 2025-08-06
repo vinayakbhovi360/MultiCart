@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/user-attachments/assets/57426369-1c5c-4860-845b-7b065eb6347c" alt="MultiCart Logo" width="150"/>
+  <img src="https://multicart-frontend.onrender.com/MultiCart-logo.png" alt="MultiCart Logo" width="150"/>
   <h1>MultiCart</h1>
   <p><b>A modern, full-stack multivendor e-commerce platform built with the MERN stack.</b></p>
   <p>MultiCart provides a seamless and feature-rich experience for customers, vendors, and administrators.</p>
@@ -18,7 +18,7 @@
 
 ## 🚀 Live Demo
 
-[Check out the live application!](https://your-live-demo-link.com) &nbsp;&nbsp;*(<- Add your deployment link here)*
+[Check out the live application!](https://multicart-frontend.onrender.com/) &nbsp;&nbsp;*(<- Add your deployment link here)*
 
 ## ✨ Core Features
 
