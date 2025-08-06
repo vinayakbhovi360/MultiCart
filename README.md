@@ -145,27 +145,4 @@ Follow these instructions to get a local copy of the project up and running for 
     -   Frontend: `http://localhost:5173`
     -   Backend API: `http://localhost:8000`
 
-## 📁 Project Structure
 
-The repository is organized into a monorepo structure with distinct frontend and backend directories.
-
-multicart/
-├── 📁 backend/            # Node.js & Express.js API
-│   ├── controllers/       # Logic for handling requests
-│   ├── models/            # Mongoose schemas for MongoDB
-│   ├── routes/            # API route definitions
-│   ├── middlewares/       # Custom middleware (auth, error handling)
-│   ├── utils/             # Utility functions (JWT, email)
-│   └── server.js          # Main server entry point
-│
-├── 📁 frontend/           # React & Vite Client Application
-│   ├── src/
-│   │   ├── assets/        # Static assets (images, fonts)
-│   │   ├── components/    # Reusable UI components
-│   │   ├── pages/         # Top-level page components
-│   │   ├── redux/         # Redux Toolkit store, slices, and actions
-│   │   ├── routes/        # Routing configuration
-│   │   └── App.jsx        # Main application component
-│   └── package.json
-│
-└── 📜 README.md
